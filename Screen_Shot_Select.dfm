@@ -1,0 +1,27 @@
+object frm_Screen_Shot_Select: Tfrm_Screen_Shot_Select
+  Left = 0
+  Top = 0
+  BorderStyle = bsNone
+  Caption = 'frm_Screen_Shot_Select'
+  ClientHeight = 577
+  ClientWidth = 674
+  Color = clFuchsia
+  TransparentColor = True
+  TransparentColorValue = clFuchsia
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  KeyPreview = True
+  OldCreateOrder = False
+  Position = poScreenCenter
+  OnClose = FormClose
+  OnCreate = FormCreate
+  OnKeyDown = FormKeyDown
+  OnMouseDown = FormMouseDown
+  OnMouseMove = FormMouseMove
+  OnMouseUp = FormMouseUp
+  PixelsPerInch = 96
+  TextHeight = 13
+end

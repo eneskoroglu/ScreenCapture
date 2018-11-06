@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.410,C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\Unit1.dfm=C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.374,C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\Unit1.dfm=C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\ScreenShotSelect.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.164,C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\Unit1.dfm=C:\Users\enes.koroglu\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.598,C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\Screenshot_Select.pas=C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\Screen_Shot_Select.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.598,C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\Screenshot_Select.dfm=C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\Screen_Shot_Select.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.469,=C:\Users\enes.koroglu\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.812,C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\ScreenShotSelect.pas=C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\Screenshot_Select.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.598,=C:\Users\enes.koroglu\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.868,=C:\Users\enes.koroglu\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.246,=C:\Users\enes.koroglu\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.164,C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\Unit1.pas=C:\Users\enes.koroglu\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.687,=C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.374,C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\Unit1.pas=C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\ScreenShotSelect.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.672,=C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.410,C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\Unit1.pas=C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.377,C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\Screen_View.dfm=C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.377,C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\Screen_View.pas=C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.058,C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\Project1.dproj=C:\Users\enes.koroglu\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.812,C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\ScreenShotSelect.dfm=C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\Screenshot_Select.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.490,C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\Project1.dproj=C:\Users\enes.koroglu\Desktop\Delphi Screen Capture\ScreenShot.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
